@@ -1,0 +1,35 @@
+body{
+	background-color:black;
+	color:red;
+	font-family:Georgia;
+}
+
+
+#head1{
+	text-align:center;
+	background-color:white;
+}
+
+
+
+h2{
+	
+	background-color:white;
+}
+
+ol {list-style-type: upper-roman;}
+
+ul {list-style-type: square;}
+
+#home{
+	background-color:white;
+	font-family:Verdana;
+	color:blue;
+	font-size:20px;
+}
+#recipe{
+	background-color:white;
+	font-family:Verdana;
+	color:blue;
+	font-size:20px;
+}

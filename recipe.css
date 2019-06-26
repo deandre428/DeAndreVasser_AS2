@@ -1,0 +1,102 @@
+body{
+	background-color:#FFCC00;
+	font-family:Georgia;
+	color:#000000;
+}
+
+
+#head1{
+	
+	background-color:#F0F0F0;
+	text-align:center;
+	color:#A4A400;
+	font-family:Verdana;
+	letter-spacing: 2px;
+}
+
+#head2{
+	
+	background-color:#F0F0F0;
+	text-align:center;
+	color:#A4A400;
+	font-family:Verdana;
+	letter-spacing: 2px;
+}
+
+#home{
+	background-color:white;
+	font-family:Verdana;
+	color:blue;
+	font-size:20px;
+}
+#recipe{
+	background-color:white;
+	font-family:Verdana;
+	color:blue;
+	font-size:20px;
+}
+
+#pp{
+	font-weight:bold;
+}
+
+#para{
+	font-weight:bold;
+	font-family:Verdana;
+}
+
+
+
+
+h3{
+	text-align:left;
+	letter-spacing: 2px;
+}
+
+
+	
+
+
+
+table, th, td {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+ td {
+  padding: 5px;
+  text-align: left;
+  background-color:#CC9933;
+}
+
+th{
+	text-align:center;
+	width:20%;
+	background-color:#003366;
+}
+
+
+table{
+	width:80%;
+	color:#FFFFFF;
+	margin-top:20px;
+}
+
+caption{
+	background-color:#F0F0F0;
+	color:#A4A400;
+	font-weight:bold;
+	letter-spacing: 2px;
+}
+
+#table2{
+	width:63%;
+}
+
+#last{
+	font-family:Verdana;
+	font-weight:bold;
+}
+
+ul{
+	list-style-type: square;
+}
